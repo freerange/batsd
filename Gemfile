@@ -8,6 +8,9 @@ else
   gem 'json'
 end
 
+gem 'recap'
+gem 'foreman'
+
 group :development, :test do
   gem 'yard'
   gem 'mocha'
