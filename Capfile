@@ -4,4 +4,4 @@ set :application, 'batsd'
 set :repository, 'git://github.com/freerange/batsd.git'
 set :branch, 'recap'
 
-server 'harmonia.io', :app
+server 'bison.gofreerange.com', :app
